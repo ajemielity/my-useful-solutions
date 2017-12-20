@@ -1,0 +1,36 @@
+
+.frame-transparent {
+  position: relative;
+  width: auto;
+  max-width: 80%;
+  border: 2px solid black;
+  border-top: none;
+  text-align: center;
+  margin: 100px auto;
+}
+
+.frame-transparent h1 {
+  position: relative;
+  margin-top: -1em;
+  display: inline-block;
+}
+
+.transparent-h1-border__top-border{
+  position: absolute;
+  height: 2px;
+  width: 25%;
+  background-color: black;
+}
+
+.transparent-h1-border__top-border__right {
+  right: 0;
+}
+
+.transparent-h1-border__top-border__left {
+  left: 0;
+}
+
+
+.frame-transparent p {
+  padding: 5% 10%;
+}
