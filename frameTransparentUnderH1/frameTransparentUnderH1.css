@@ -15,18 +15,18 @@
   display: inline-block;
 }
 
-.transparent-h1-border__top-border{
+.frame-transparent__top-border{
   position: absolute;
   height: 2px;
   width: 25%;
   background-color: black;
 }
 
-.transparent-h1-border__top-border__right {
+.frame-transparent__top-border__right {
   right: 0;
 }
 
-.transparent-h1-border__top-border__left {
+.frame-transparent__top-border__left {
   left: 0;
 }
 
